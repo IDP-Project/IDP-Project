@@ -1,0 +1,2 @@
+COPY public.data1 FROM '/home/sangita/Downloads/convertcsv.csv' DELIMITER ',' CSV HEADER;
+COPY

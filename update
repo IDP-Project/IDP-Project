@@ -1,0 +1,3 @@
+UPDATE database
+SET cve_items_cve_affects_vendor_vendor_data_vendor_name = 'canonical', cve_items_cve_affects_vendor_vendor_data_product_product_data_p = 'ubuntu_linux', cve_items_cve_affects_vendor_vendor_data_product_product_data_v = '18.04'
+WHERE cve_items_cve_cve_data_meta_id = 'CVE-2019-2743';
